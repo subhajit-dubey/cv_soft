@@ -36,6 +36,7 @@ skills:
     skill:
       - QlikSense
       - Tableau
+      - R-Shiny
 
 
 # Profile
@@ -50,17 +51,20 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: AVP, Wholesale Credit Risk IFRS9 & ST
+    time: Sep-2022-Present
+    company: HSBC
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Designed and developed the Macro Attribution Tool in Python to facilitate 
+        Stress Testing, assessing the impact of Macro-Economic Variables on IFRS9 PD models
+      - Conducted training sessions to familiarize teams with the modular structure of the 
+        Second Generation PD framework and coding standards
+      - Organized awareness sessions within the team to align members with coding and documentation
+        standards maintained by the IT Risk Transformation team
+      - Acquired proficiency in Pyspark for accelerated data wrangling in 
+        larger business sites like HK and UK
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      SAS, GitHub, Sphinx Documentation, PySpark
   
   - role: Researcher
     time: 2016-2020
