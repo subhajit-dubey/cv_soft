@@ -13,39 +13,40 @@ contact:
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Bengali
+  - idiom: Hindi
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Economics
+    time: 2009-2011
+    university: Calcutta University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Economics
+    time: 2006-2009
+    university: Calcutta University
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - SAS
+      - Python
+      - R
+      - Alteryx
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - QlikSense
+      - Tableau
+
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  A highly accomplished professional with over 9 years of experience in marketing analytics, 
+  data automation, and regulatory capital risk modeling. Proven expertise in leveraging 
+  analytical and visualization tools to deliver actionable insights and drive strategic 
+  decision-making. Demonstrated ability to streamline processes, enhance data solutions, 
+  and contribute to business growth. Currently contributing to the IFRS9 model development 
+  team, specializing in Python-based regulatory capital risk modeling.
+
 
 # Experience
 experience:
