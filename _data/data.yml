@@ -56,11 +56,11 @@ experience:
     company: HSBC
     details: |
       - Designed and developed the Macro Attribution Tool in Python to facilitate 
-        Stress Testing, assessing the impact of Macro-Economic Variables on IFRS9 PD models
+        Stress Testing, assessing the impact of Macro-Economic Variables on IFRS9 PD models <br>
       - Conducted training sessions to familiarize teams with the modular structure of the 
-        Second Generation PD framework and coding standards
+        Second Generation PD framework and coding standards <br>
       - Organized awareness sessions within the team to align members with coding and documentation
-        standards maintained by the IT Risk Transformation team
+        standards maintained by the IT Risk Transformation team <br>
       - Acquired proficiency in Pyspark for accelerated data wrangling in 
         larger business sites like HK and UK
     technologies_used: | 
