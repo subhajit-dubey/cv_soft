@@ -1,15 +1,15 @@
-name: John Doe
+name: Subhajit Dubey
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: subhajit.dubey@gmail.com
+  github: github.com/subhajit-dubey
+  linkedin: linkedin.com/in/subhajitdubey/
+  phone: (+91) 8013655589
+  facebook: facebook.com/subhajit.dubey/
+  instagram: instagram.com/subhajitdubey/ 
 
 languages:
   - idiom: English
