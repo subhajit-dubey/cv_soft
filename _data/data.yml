@@ -5,11 +5,11 @@ fork: false
 # Sidebar
 contact:
   email: subhajit.dubey@gmail.com
-  github: www.github.com/subhajit-dubey
-  linkedin: www.linkedin.com/in/subhajitdubey/
+  github: subhajit-dubey
+  linkedin: subhajitdubey
   phone: (+91) 8013655589
-  facebook: www.facebook.com/subhajit.dubey/
-  instagram: www.instagram.com/subhajitdubey/ 
+  facebook: subhajit.dubey
+  instagram: subhajitdubey
 
 languages:
   - idiom: English
